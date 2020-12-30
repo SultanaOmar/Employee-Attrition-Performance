@@ -20,6 +20,7 @@ There is one notebook file that contains all the work related to the above quest
 
 
 The results notebook has been added and is for non-technicians.
+https://sultana-omar.medium.com/employee-attrition-performance-529ec2de6d7
 
 
 5. Licensing:
